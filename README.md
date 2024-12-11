@@ -1,3 +1,25 @@
+# CalculateSalary
+
+**CalculateSalary** is a real-time salary calculator with a relaxing interface and built-in music player.
+
+## Features:
+- Real-time calculation of daily and monthly earnings.
+- Configurable work hours.
+- Built-in music player with relaxing tracks.
+- Lightweight and easy to use.
+
+## Installation:
+1. Download the latest `CalculateSalary.exe` from the [Releases](https://github.com/kipvent/CalculateSalary/releases).
+2. Run the program — no installation required!
+
+## How to Use:
+1. Set your monthly salary and working hours.
+2. Watch your earnings update in real time.
+3. Play relaxing music to enhance your focus or meditation.
+
+## License:
+See [EULA.txt](./EULA.txt) for details.
+
 # Калькулятор зарплаты для медитации
 [Download CalculateSalary.exe](https://github.com/kipvent/CalculateSalary/releases/latest)
 
