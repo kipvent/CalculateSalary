@@ -32,3 +32,4 @@
 
 ## Лицензия:
 Программа предоставляется "как есть". Автор не несёт ответственности за её использование.
+[Download CalculateSalary.exe](https://github.com/kipvent/CalculateSalary/releases/latest)
